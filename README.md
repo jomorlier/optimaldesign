@@ -2,7 +2,7 @@
 Optimal Design with applications in Aerospace
 
 
-	1.	Introduction to Optimization
+	1.	Introduction to Optimization for a more sustainable aviation
 		Fundamental concepts: definition of an optimization problem, objective functions, and constraints.
 		Types of optimization: linear, nonlinear, convex, non-convex.
 		Principles of Multi-objective and Multidisciplinary Optimization for Engineers.
@@ -19,4 +19,4 @@ Optimal Design with applications in Aerospace
 		Topology algorithms: SIMP method (Solid Isotropic Material with Penalization).
 	5.	Applications in Aerospace Engineering
  		Tank, beam and truss optimization
-		Optimization of aerostructures in a multidisciplinary context (LOAD ALLEVIATION TEAM PROJECT).
+		Optimization of aerostructures in a multidisciplinary context (load alleviation).
