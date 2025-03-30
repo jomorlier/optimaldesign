@@ -13,7 +13,7 @@ Optimal Design with applications in Aerospace
 		Constraint management: Lagrange multipliers method, Sequential Quadratic Programming (SQP).
 	3.	Eco-Selection of Materials
 		Introduction to eco-design and environmental criteria.
-		Multi-criteria analysis tools: performance indices, criteria weighting.
+		Multiobjective analysis tools: performance indices, criteria weighting.
 	4.	Topology Optimization of Structures
 		Basics of topology design: material density and sensitivity functions.
 		Topology algorithms: SIMP method (Solid Isotropic Material with Penalization).
