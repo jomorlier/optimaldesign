@@ -20,3 +20,6 @@ Optimal Design with applications in Aerospace
 	5.	Applications in Aerospace Engineering
  		Tank, beam and truss optimization
 		Optimization of aerostructures in a multidisciplinary context (load alleviation).
+
+  Review maths basics from ODE, BVP, numerical integration linear algebra and unconstrained optimization are extracted from https://github.com/jkitchin/f18-06623
+  
