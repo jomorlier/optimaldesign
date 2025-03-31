@@ -1,6 +1,10 @@
 # Optimal Design
 Optimal Design with applications in Aerospace
 
+Access supplementary materials and Airbus project here: 
+
+https://lms.isae.fr/user/index.php?id=5081
+
 
 	1.	Introduction to Optimization for a more sustainable aviation
 		Fundamental concepts: definition of an optimization problem, objective functions, and constraints.
