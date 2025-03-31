@@ -1,6 +1,8 @@
 # Optimal Design
 Optimal Design with applications in Aerospace
-Access supplementary material and Airbus project here: 
+
+Access supplementary materials and Airbus project here: 
+
 https://lms.isae.fr/user/index.php?id=5081
 
 
