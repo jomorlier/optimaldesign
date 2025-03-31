@@ -1,9 +1,18 @@
 # Optimal Design
 Optimal Design with applications in Aerospace
 
-Access supplementary materials and Airbus project here: 
+Access supplementary materials and Airbus project here:
 
 https://lms.isae.fr/user/index.php?id=5081
+
+For miniproject team presentation (max 7')
+Aims and Goals 1’
+Explain briefly the code’s architecture 3’
+Reproduce main results 3’
+
+
+Content:
+
 
 
 	1.	Introduction to Optimization for a more sustainable aviation
