@@ -12,8 +12,8 @@ https://lms.isae.fr/user/index.php?id=5081
 		Principles of Multi-objective and Multidisciplinary Optimization for Engineers.
 	2.	Gradient-Based Optimization Methods
 		Basic gradient descent.
-		Advanced methods: conjugate gradient descent.
-  		Sensitivity analysis using Jax/autograd
+  		Augemented Lagrangian and penalty method.
+  		Sensitivity analysis using autograd.
 		Constraint management: Lagrange multipliers method, Sequential Quadratic Programming (SQP).
 	3.	Eco-Selection of Materials
 		Introduction to eco-design and environmental criteria.
