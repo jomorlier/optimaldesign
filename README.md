@@ -5,13 +5,16 @@ Optimal Design with applications in Aerospace
 
 https://lms.isae.fr/user/index.php?id=5081
 
-# For miniproject team presentation (max 7')
+# For project team presentation (20')
 
 | Chapter   | duration |
 | -------- | ------- |
 | Aims and Goals | 1'    |
-| Explain briefly the code’s architecture | 3'     |
-| How to Reproduce your results    | 3'   |
+| Your Aicraft | 5'    |
+| Explain briefly the code’s architecture | 5'     |
+| How to Reproduce your results    | 5'   |
+| Possible improvements/ideas | 2'    |
+| Conclusions | 2'    |
 
 
 # DO NOT FORGET to evaluate the course after friday's defense.
@@ -40,4 +43,12 @@ Content:
 		Optimization of aerostructures in a multidisciplinary context (load alleviation).
 
   Review maths basics from ODE, BVP, numerical integration linear algebra and unconstrained optimization are extracted from https://github.com/jkitchin/f18-06623
+
+  # For miniproject team presentation (max 7')
+
+| Chapter   | duration |
+| -------- | ------- |
+| Aims and Goals | 1'    |
+| Explain briefly the code’s architecture | 3'     |
+| How to Reproduce your results    | 3'   |
   
