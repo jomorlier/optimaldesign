@@ -5,9 +5,12 @@ Access supplementary materials and Airbus project here:
 
 https://lms.isae.fr/user/index.php?id=5081
 
-For miniproject team presentation (max 7')
+##For miniproject team presentation (max 7')
+
 Aims and Goals 1’
+
 Explain briefly the code’s architecture 3’
+
 Reproduce main results 3’
 
 
