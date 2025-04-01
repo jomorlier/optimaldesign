@@ -12,7 +12,7 @@ https://lms.isae.fr/user/index.php?id=5081
 | Aims and Goals | 1'    |
 | Aicraft specifications | 3'    |
 | Explain briefly the code’s architecture | 7'     |
-| How to Reproduce your results    | 5'   |
+| Discuss your results    | 5'   |
 | Possible improvements/ideas | 2'    |
 | Conclusions | 2'    |
 
