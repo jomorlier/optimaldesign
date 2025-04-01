@@ -1,18 +1,20 @@
 # Optimal Design
 Optimal Design with applications in Aerospace
 
-Access supplementary materials and Airbus project here:
+# Access supplementary materials and Airbus project here:
 
 https://lms.isae.fr/user/index.php?id=5081
 
 # For miniproject team presentation (max 7')
 
-Aims and Goals 1’
+| Chapter   | duration |
+| -------- | ------- |
+| Aims and Goals | 1'    |
+| Explain briefly the code’s architecture | 3'     |
+| How to Reproduce your results    | 3'   |
 
-Explain briefly the code’s architecture 3’
 
-Reproduce main results 3’
-
+# DO NOT FORGET to evaluate the course after friday's defense.
 
 Content:
 
