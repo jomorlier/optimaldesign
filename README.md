@@ -5,12 +5,12 @@ Optimal Design with applications in Aerospace
 
 https://lms.isae.fr/user/index.php?id=5081
 
-# For project team presentation (20')
+# For project team presentation (15')
 
 | Chapter   | duration |
 | -------- | ------- |
 | Aims and Goals | 1'    |
-| Aicraft specifications | 2'    |
+| Aicraft specifications | 1'    |
 | Explain briefly the code’s architecture | 2'     |
 | Discuss your results    | 5'   |
 | Possible improvements/ideas | 5'    |
