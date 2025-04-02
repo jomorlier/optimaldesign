@@ -10,11 +10,11 @@ https://lms.isae.fr/user/index.php?id=5081
 | Chapter   | duration |
 | -------- | ------- |
 | Aims and Goals | 1'    |
-| Aicraft specifications | 3'    |
-| Explain briefly the code’s architecture | 7'     |
+| Aicraft specifications | 2'    |
+| Explain briefly the code’s architecture | 2'     |
 | Discuss your results    | 5'   |
-| Possible improvements/ideas | 2'    |
-| Conclusions | 2'    |
+| Possible improvements/ideas | 5'    |
+| Conclusions | 1'    |
 
 
 # DO NOT FORGET to evaluate the course after friday's defense.
