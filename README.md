@@ -16,11 +16,6 @@ https://lms.isae.fr/user/index.php?id=5081
 | Possible improvements/ideas | 5'    |
 | Conclusions | 1'    |
 
-
-# DO NOT FORGET to evaluate the course after friday's defense.
-https://docs.google.com/forms/d/e/1FAIpQLSc3FFHiw4fB2MheFzCzVhLex_X-gBuzLLZ0iHZ2nPDep_tGWw/viewform?usp=sharing
-
-
 Content:
 
 
